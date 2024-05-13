@@ -2,7 +2,7 @@
 venv
 .env
 env
-
+dbtenv
 target/
 dbt_packages/
 logs/
